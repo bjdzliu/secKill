@@ -1,0 +1,31 @@
+2018/11/28 04:26:16.282 [I] [main.go:14]  init sec succ
+2018/11/28 04:26:16.364 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2018/12/28 00:22:15.008 [D] [init.go:135]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:6 version:1 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2018/12/28 00:22:15.008 [I] [main.go:14]  init sec succ
+2018/12/28 00:22:15.112 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/02 12:12:51.538 [D] [init.go:135]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:6 version:1 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/02 12:12:51.540 [I] [main.go:14]  init sec succ
+2019/01/02 12:12:51.629 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/02 12:15:57.822 [D] [init.go:136]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:6 version:1 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/02 12:15:57.822 [I] [main.go:14]  init sec succ
+2019/01/02 12:15:57.912 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/09 21:13:50.955 [D] [init.go:147]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:7 version:2 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/09 21:13:50.955 [E] [init.go:147]  [{%!s(int=1022) %!s(int=1517495965) %!s(int=1517495666) %!s(int=0) %!s(int=10000) %!s(int=10000)} {%!s(int=1032) %!s(int=1517495965) %!s(int=1517495666) %!s(int=0) %!s(int=9000) %!s(int=9000)}]
+2019/01/09 21:13:50.955 [I] [main.go:14]  init sec succ
+2019/01/09 21:13:51.048 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/09 21:14:08.198 [D] [init.go:147]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:7 version:2 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/09 21:14:08.198 [E] [init.go:147]  [{%!s(int=1022) %!s(int=1517495965) %!s(int=1517495666) %!s(int=0) %!s(int=10000) %!s(int=10000)} {%!s(int=1032) %!s(int=1517495965) %!s(int=1517495666) %!s(int=0) %!s(int=9000) %!s(int=9000)}]
+2019/01/09 21:14:08.198 [I] [main.go:14]  init sec succ
+2019/01/09 21:14:08.291 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/09 21:15:13.248 [D] [init.go:147]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:7 version:2 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/09 21:15:13.248 [E] [init.go:147]  json Unmarshal result: [{1022 1517495965 1517495666 0 10000 10000} {1032 1517495965 1517495666 0 9000 9000}]
+2019/01/09 21:15:13.248 [I] [main.go:14]  init sec succ
+2019/01/09 21:15:13.340 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/09 21:17:07.378 [D] [init.go:147]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:7 version:2 value:"[{\"ProductId\":1022,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1032,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/09 21:17:07.379 [E] [init.go:147]  json Unmarshal result: [{1022 1517495965 1517495666 0 10000 10000} {1032 1517495965 1517495666 0 9000 9000}]
+2019/01/09 21:17:07.379 [I] [main.go:14]  init sec succ
+2019/01/09 21:17:07.475 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
+2019/01/09 21:18:57.096 [D] [init.go:147]  key[%!s(int=0)] values[key:"/liudz/secskill/product" create_revision:6 mod_revision:8 version:3 value:"[{\"ProductId\":1023,\"StartTime\":1517495965,\"EndTime\":1517495666,\"Status\":0,\"Total\":10000,\"Left\":10000},{\"ProductId\":1024,\"StartTime\":1517496965,\"EndTime\":1517495666,\"Status\":0,\"Total\":9000,\"Left\":9000}]" ] 	
+2019/01/09 21:18:57.096 [E] [init.go:147]  json Unmarshal result: [{1023 1517495965 1517495666 0 10000 10000} {1024 1517496965 1517495666 0 9000 9000}]
+2019/01/09 21:18:57.096 [I] [main.go:14]  init sec succ
+2019/01/09 21:18:57.193 [I] [asm_amd64.s:2337]  http server Running on http://127.0.0.1:9090
